@@ -9,13 +9,16 @@ body{
 	font-family: 'Bebas Neue', cursive;
 }
 h1{
-	font-size: 150px;
+	font-size: 100px;
 	margin-top: 0px;
 	margin-bottom: 0px;
-	background-color: #0d2575;
+	background-color: #709fb0;
 	color:white;
 	padding:15px;
 	padding-left: 150px;
+	border-top: solid;
+	border-right: solid;
+	border-left: solid;
 }
 
 h2{
