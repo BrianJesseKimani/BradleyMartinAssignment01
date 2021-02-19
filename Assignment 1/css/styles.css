@@ -26,6 +26,7 @@ h2{
 	font-size: 40px;
 	color: #709fb0;
 	padding-top: 40px;
+	margin-top: 20px;
 }
 
 .content{
@@ -36,7 +37,7 @@ h2{
 	padding: 20px;
 	border-radius: 15px;
 	display: block;
-	height: 600px;
+	height: 625px;
 	overflow-y: scroll;
 	scroll-behavior: smooth;
 }
