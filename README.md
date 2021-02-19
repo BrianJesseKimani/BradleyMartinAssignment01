@@ -2,7 +2,6 @@
  Respository for my first DMS290 project
 
 # bhall10 (Bianca Hall) Changes Feb 19
-=======================================
 
 Changes to Header & Headings
 -----------------
