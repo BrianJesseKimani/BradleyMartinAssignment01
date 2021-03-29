@@ -8,7 +8,7 @@
 # Assignment 07 - Typography
 
 
-> website - http://jbkimani.digitalscholar.rochester.edu/assignment07/
+> website - http://bhall.digitalscholar.rochester.edu/assignment02/assignment01/
 
 - **Old fonts**
     - Bebas Nueue, cursive (for headings)
